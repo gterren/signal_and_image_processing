@@ -8,9 +8,13 @@ See articles https://arxiv.org/pdf/2011.12401.pdf and https://arxiv.org/pdf/2101
 
 ### Moist Adiabatic Lapse Rate
 
-See file in moist_adiabatic_lapse_rate.ipynb.
+See file in notebook: moist_adiabatic_lapse_rate.ipynb.
 
 ### Atmospheric Radiometric Model
+
+See files in the directory: atmospheric_radiometric_model/* 
+
+The files contain the notebooks with the analysis and the files .py used to cross-validate the models in High Performance Computer.
 
 ### Atmospheric Conditions Model
 
