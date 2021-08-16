@@ -8,6 +8,10 @@ See articles https://arxiv.org/pdf/2011.12401.pdf and https://arxiv.org/pdf/2101
 
 ### Moist Adiabatic Lapse Rate
 
+See file in moist_adiabatic_lapse_rate.ipynb.
+
+### Atmospheric Radiometric Model
+
 ### Atmospheric Conditions Model
 
 See files in the directory: atmospheric_condition_model/*
