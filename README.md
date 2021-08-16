@@ -30,11 +30,7 @@ The files in this folder include the jupyter notebooks used in the analysis of t
 
 ### Outdoor Germanium Camera Window Model
 
-The functions used to implemente the persistent model of the effects produced by outdoor gearmanium window of the infrared camera are in files XX. The functions are: and . This functions applied the model and this one computes the model.
-
-_window_persistent_model_v3()
-_remove_window_artifacts()
-_save_window_persistent_model()
+The functions used to implemente the persistent model of the effects produced by outdoor gearmanium window of the infrared camera are in the file image_processing_utils.py. The functions are: _window_persistent_model_v3(), _remove_window_artifacts(), and _save_window_persistent_model(). This function applied the model _remove_window_artifacts() and this _window_persistent_model_v3() computes the model. At the end of the day the model is saved using this _save_window_persistent_model().
 
 ## Dataset
 
