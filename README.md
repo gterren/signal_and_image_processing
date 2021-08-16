@@ -10,6 +10,8 @@ This directory contains the files used for the calibration of the pyranometer vi
 
 ## Infrared Images Processing
 
+The processing applied to the images is subdivided in feature extraction (Moist Adiabatic Lapse Rate), cyclostationary effects modelling (Atmospheric Radiometric Model and Outdoor Germanium Camera Window Model), and the atmospheric detection model that uses the images to classify the type of weather conditions displayed on the images.
+
 ### Moist Adiabatic Lapse Rate
 
 See file in notebook: moist_adiabatic_lapse_rate.ipynb.
