@@ -4,6 +4,10 @@ See articles https://arxiv.org/pdf/2011.12401.pdf and https://arxiv.org/pdf/2101
 
 ## Pyranometer Signal Processing
 
+See files in the directory: pyranometer_processing/* 
+
+This directory contains the files used for the calibration of the pyranometer via software, so the clear sky index can be extracted without biases in the signal. The bias appear when using high resolution measurements of Global Solar Irradiance. There are two different bias modelled in the signal: amplitude and shifting biases.
+
 ## Infrared Images Processing
 
 ### Moist Adiabatic Lapse Rate
