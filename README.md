@@ -32,6 +32,10 @@ The files in this folder include the jupyter notebooks used in the analysis of t
 
 The functions used to implemente the persistent model of the effects produced by outdoor gearmanium window of the infrared camera are in files XX. The functions are: and . This functions applied the model and this one computes the model.
 
+_window_persistent_model_v3()
+_remove_window_artifacts()
+_save_window_persistent_model()
+
 ## Dataset
 
 A sample dataset is publicaly available in DRYAD repository: https://datadryad.org/stash/dataset/doi%253A10.5061%252Fdryad.zcrjdfn9m
