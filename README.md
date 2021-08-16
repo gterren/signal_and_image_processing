@@ -14,7 +14,7 @@ See file in notebook: moist_adiabatic_lapse_rate.ipynb.
 
 See files in the directory: atmospheric_radiometric_model/* 
 
-The files contain the notebooks with the analysis and the files .py used to cross-validate the models in High Performance Computer.
+The files contain the notebooks with the analysis and the files .py used to cross-validate the models in High Performance Computer. The files named as atmospheric_model_parameters_dataset_vX-X.py compute the optimal parameters of the atmospheric radiometric model. The files named as validate_atmospheric_model_parameters_vX-X.py are used to cross-validate the regression model of the optimal atmospheric radiometric model parameters.
 
 ### Atmospheric Conditions Model
 
