@@ -1,7 +1,7 @@
 {
-    "description": "<p>This repository includes the software implemented in the Girasol Machine for the pre-processing of the pyranometer signal and the infrared sky images.<p>See original preprint: <a href='https://arxiv.org/pdf/2011.12401.pdf'>https://arxiv.org/pdf/2011.12401.pdf</a></p><p>See realated data: <a href='https://doi.org/10.5061/dryad.zcrjdfn9m'>https://doi.org/10.5061/dryad.zcrjdfn9m</a></p><p>Additional funding was provided by the King Felipe VI Endowed Chair of the University of New Mexico.</p>", 
+    "description": "<p>This repository includes the software implemented in the Girasol Machine for the pre-processing of the pyranometer signal and the infrared sky images.</p><p>See original preprint: <a href='https://arxiv.org/pdf/2011.12401.pdf'>https://arxiv.org/pdf/2011.12401.pdf</a></p><p>See realated data: <a href='https://doi.org/10.5061/dryad.zcrjdfn9m'>https://doi.org/10.5061/dryad.zcrjdfn9m</a></p><p>Additional funding was provided by the King Felipe VI Endowed Chair of the University of New Mexico.</p>", 
     "license": "Apache-2.0", 
-    "title": "Signal and Image Processing for Infrared Sky Images", 
+    "title": "Signal and Image Processing for Pyranometer Measurements and Infrared Sky Images", 
     "upload_type": "software", 
     "publication_date": "2022-08-18", 
     "creators": [
